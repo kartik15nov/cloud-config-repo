@@ -32,3 +32,6 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect
+  artemis:
+    user: artemis
+    password: simetraehcapa
